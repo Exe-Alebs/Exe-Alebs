@@ -8,10 +8,10 @@ I'm a Software Engineer, Content Creator, and Community Contributor who currentl
 
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning JavaScript, Reactjs, and NodeJS.
+- 🌱 I’m currently working JavaScript, Reactjs, and NodeJS(MERN) and Java.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Backend Engineer, or Java Engineer (Intern or Junior level).
-- 📫 You can [![view my resume](https://docs.google.com/document/d/1iHjfplXe2B0Zt46l9eprg3TLbezdfzI2muk3HSDLVng/edit?usp=sharing)] and contact me by emailing Alebsgd@gmail.com.
+- 📫 You can [view my resume](https://docs.google.com/document/d/1iHjfplXe2B0Zt46l9eprg3TLbezdfzI2muk3HSDLVng/edit?usp=sharing) and contact me by emailing Alebsgd@gmail.com.
 
 ---
 
