@@ -14,6 +14,10 @@ I'm a Software Engineer, Content Creator, and Community Contributor who currentl
 - 📫 You can [view my resume](https://docs.google.com/document/d/1iHjfplXe2B0Zt46l9eprg3TLbezdfzI2muk3HSDLVng/edit?usp=sharing) and contact me by emailing Alebsgd@gmail.com.
 
 ---
+<!-- --- -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Exe-Alebs&label=Profile%20Visits&color=0e75b6&style=flat" alt="Number of visits to Alebiosu Gbolahan GitHub" /> </p>
+
+
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Exe-Alebs&show_icons=true&include_all_commits=true&hide_border=true" alt="Alebs GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Exe-Alebs&langs_count=8&layout=compact&hide_border=true" alt=" Alebs GitHub stats" /> |
 | ------------- | ------------- |
