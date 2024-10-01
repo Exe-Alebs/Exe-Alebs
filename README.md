@@ -22,6 +22,6 @@ I'm a Software Engineer, Biotechnologist and Community Contributor who currently
 
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@Alebs&layout=compact" alt="Coding Activity Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Exe-Alebs&langs_count=8&layout=compact&hide_border=true" alt=" Alebs GitHub stats" /> |
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Exe-Alebs&langs_count=8&layout=compact&hide_border=true" alt=" Alebs GitHub stats" /> 
 
-| ------------- | ------------- |
+
