@@ -12,6 +12,8 @@ I'm a Software Engineer, Biotechnologist and Community Contributor who currently
 - 💼 Job interests: Software Engineer, Backend Engineer, or Frontend Engineer(Mid-Level)
 - 📫 You can [view my resume](https://drive.google.com/file/d/12EbL0U80Wx3UA6RNWuZk0Dn3UParqOqz/view?usp=sharing) and contact me by emailing Alebsgd@gmail.com.
 
+<p align="center"> <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,mongodb,postgres,java,spring,tailwind,git" /> </p>
+
   ## Technical Skills:
 - **Frontend:** JavaScript, React.js, Next.js, AngularJs
 - **Backend:** Node.js, Express.js, Java (Spring Boot) 
